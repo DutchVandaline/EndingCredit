@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/junha/endingcredit/BuildConfig.java
+ com.junha.endingcredit.BuildConfig
+com/junha/endingcredit/MainActivity.java
+ com.junha.endingcredit.MainActivity
