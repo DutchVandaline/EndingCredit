@@ -1,4 +1,4 @@
-# endingcredit
+# Ending Credit
 
 A new Flutter application.
 
