@@ -1,16 +1,20 @@
 # Ending Credit
+> Ending Credit은 영화를 기록하는 어플리케이션입니다.
+> Ending Credit is an app that can record movies.
 
-A new Flutter application.
+방금 본 영화에 대한 기억이 사라지기 전에, 엔딩크레딧이 올라가는 순간 메모하세요!
+Before the memories of movies, write a memo while ending credit is rolling!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 개발 환경 설정
+IOS 와 안드로이드 모두 사용이 가능합니다.
+This app runs based on IOS and Android.
+TMDB에서 영화를 받아옵니다.
+Movies are fetched from TMDB.
 
-A few resources to get you started if this is your first Flutter project:
+## 업데이트 내역
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* 0.1.0
+    * 첫 출시
+    * 안드로이드 및 IOS에 출시 이력 있음.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
